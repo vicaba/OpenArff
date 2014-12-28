@@ -1,0 +1,5 @@
+@relation student_mark
+@attribute mark real
+@attribute student { 'ls25637', 'ls25648' } 
+@data
+9, 'ls25637'
